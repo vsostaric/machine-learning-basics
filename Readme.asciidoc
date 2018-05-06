@@ -1,0 +1,4 @@
+= Machine learning basics
+
+== Description
+This is repository contains python files created while going through the Udemy course called "Machine Learning A-Z™: Hands-On Python & R In Data Science".
